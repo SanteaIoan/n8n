@@ -862,6 +862,7 @@
     "n8n-core": "workspace:*"
   },
   "dependencies": {
+    "neo4j-driver": "^5.0.0",
     "@aws-sdk/client-sso-oidc": "3.666.0",
     "@kafkajs/confluent-schema-registry": "1.0.6",
     "@n8n/config": "workspace:*",
